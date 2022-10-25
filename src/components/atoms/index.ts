@@ -1,0 +1,9 @@
+export * as Anchor from './Anchor';
+export * as Badge from './Badge';
+export * as Company from './Company';
+export * as H3 from './H3';
+export * as H4 from './H4';
+export * as Headline from './Headline';
+export * as Name from './Headline';
+export * as P from './P';
+export * as WorkPeriod from './WorkPeriod';
