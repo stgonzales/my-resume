@@ -96,13 +96,20 @@ export default function Home() {
             </Section.Root>
           </Flex.Item>
         </Flex.Root>
-        <Section.Root id="education">
+        {/* <Section.Root id="education">
           <Section.Title>Education</Section.Title>
           <Section.Divider />
           <Section.Content>
-            <P>{about}</P>
+            <Paragraph.Root>
+              <Paragraph.Header>
+                <H3>
+                  Rocketseat, Online
+                </H3>
+                <P></P>
+              </Paragraph.Header>
+            </Paragraph.Root>
           </Section.Content>
-        </Section.Root>
+        </Section.Root> */}
       </Main>
     </div>
   );
